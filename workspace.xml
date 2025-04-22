@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="untitled3:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9149e536-3777-4cec-858d-47e3f6b450a5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled3_war_exploded/shoppingCart.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/untitled3_war_exploded/shoppingCart.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/shoppingCart.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/shoppingCart.jsp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2f7X78MDl9r9k5lSafyNXOZIm7L" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\（备份）javaweb3.20\demo\web\WEB-INF" />
+      <recent name="F:\javaweb\demo\web\img" />
+      <recent name="C:\Users\admin\IdeaProjects\untitled3\web" />
+      <recent name="C:\Users\admin\IdeaProjects\untitled3\web\css" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\javaweb4.3\demo\src\dao1" />
+      <recent name="F:\javaweb\demo\web" />
+      <recent name="C:\Users\admin\IdeaProjects\untitled3\web" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="controller" />
+      <recent name="xia" />
+      <recent name="service" />
+      <recent name="service.impl" />
+      <recent name="dao.impl" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="dao.impl" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat 服务器.Tomcat 9.0.58">
+    <configuration name="TestDb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.TestDb" />
+      <module name="untitled3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestGoods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.TestGoods" />
+      <module name="untitled3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestGoodsDaoImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.TestGoodsDaoImpl" />
+      <module name="untitled3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestGoodsServcieImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.TestGoodsServcieImpl" />
+      <module name="untitled3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.58" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.58" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/index" />
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <deployment>
+        <artifact name="untitled3:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_9_0_58_untitled3" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="49933" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="untitled3:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Tomcat 服务器.Tomcat 9.0.58" />
+      <item itemvalue="应用程序.TestDb" />
+      <item itemvalue="应用程序.TestGoods" />
+      <item itemvalue="应用程序.TestGoodsDaoImpl" />
+      <item itemvalue="应用程序.TestGoodsServcieImpl" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9149e536-3777-4cec-858d-47e3f6b450a5" name="Default Changelist" comment="" />
+      <created>1713152919432</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713152919432</updated>
+      <workItem from="1713152923961" duration="307000" />
+      <workItem from="1713161880913" duration="28000" />
+      <workItem from="1713163822972" duration="37000" />
+      <workItem from="1740728313944" duration="6084000" />
+      <workItem from="1740742180060" duration="1491000" />
+      <workItem from="1740744415871" duration="6000" />
+      <workItem from="1740810928703" duration="3000" />
+      <workItem from="1740894947994" duration="5000" />
+      <workItem from="1741246988185" duration="83000" />
+      <workItem from="1741247199623" duration="4775000" />
+      <workItem from="1741258506824" duration="207000" />
+      <workItem from="1741438781239" duration="101000" />
+      <workItem from="1741851921731" duration="59000" />
+      <workItem from="1741852169231" duration="5420000" />
+      <workItem from="1741873221283" duration="688000" />
+      <workItem from="1741938226166" duration="5842000" />
+      <workItem from="1742202965029" duration="2321000" />
+      <workItem from="1742439163292" duration="101000" />
+      <workItem from="1743062064900" duration="4466000" />
+      <workItem from="1743140341377" duration="655000" />
+      <workItem from="1743147710996" duration="58000" />
+      <workItem from="1743147849875" duration="4000" />
+      <workItem from="1743147863600" duration="6238000" />
+      <workItem from="1743154260731" duration="6000" />
+      <workItem from="1743666717975" duration="182000" />
+      <workItem from="1743666907861" duration="4711000" />
+      <workItem from="1743678789246" duration="80000" />
+      <workItem from="1743751329986" duration="7000" />
+      <workItem from="1744119384132" duration="275000" />
+      <workItem from="1744213411895" duration="1758000" />
+      <workItem from="1744266388337" duration="2630000" />
+      <workItem from="1744271373822" duration="5069000" />
+      <workItem from="1744281767642" duration="2644000" />
+      <workItem from="1744343168999" duration="1700000" />
+      <workItem from="1744357310948" duration="5590000" />
+      <workItem from="1744369116371" duration="77000" />
+      <workItem from="1744432517019" duration="1929000" />
+      <workItem from="1744856885646" duration="2539000" />
+      <workItem from="1744861941809" duration="1881000" />
+      <workItem from="1744863886664" duration="2487000" />
+      <workItem from="1744875804542" duration="5599000" />
+      <workItem from="1745242561423" duration="1578000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/untitled3$Tomcat_9_0_58.ic" NAME="Tomcat 9.0.58 Coverage Results" MODIFIED="1740733297784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
